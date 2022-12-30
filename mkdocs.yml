@@ -1,0 +1,7 @@
+site_name: GrampsWeb - Doc Fr
+site_url: https://gildaslepennetier.github.io/
+nav:
+    - Home: index.md
+    - Gramps-docs: gramps/index.md
+    - About: about.md
+
