@@ -101,6 +101,23 @@ Il faut juste savoir où cliquer.
 <img src="/images/famtree-tuto/edit-birthday/4.png" alt="missing image :/" height=300>
 
 
+### Example: Ajouter une personne
+
+*Procedure en images:*
+
+<img src="/images/famtree-tuto/add-person-family/1.png" alt="missing image :/" height=300>
+<img src="/images/famtree-tuto/add-person-family/2.png" alt="missing image :/" height=300>
+<img src="/images/famtree-tuto/add-person-family/3.png" alt="missing image :/" height=300>
+
+
+### Example: Lier des personnes en familles
+
+*Procedure en images:*
+
+<img src="/images/famtree-tuto/add-person-family/4.png" alt="missing image :/" height=300>
+<img src="/images/famtree-tuto/add-person-family/5.png" alt="missing image :/" height=300>
+
+
 
 
 ## Se déconnecter
